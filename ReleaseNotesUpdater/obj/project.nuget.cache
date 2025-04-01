@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o1eF2AkxjDQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victorisr\\OneDrive - Microsoft\\Desktop\\ReleaseNotesUpdater\\ReleaseNotesUpdater\\ReleaseNotesUpdater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victorisr\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
