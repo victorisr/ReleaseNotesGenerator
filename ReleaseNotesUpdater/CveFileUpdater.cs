@@ -18,7 +18,7 @@ namespace ReleaseNotesUpdater
         private readonly string templateFile = "major-cve-template.md";
         private readonly string jsonDirectoryBase = @"C:\Febcore\core\release-notes\"; // Base directory where the JSON files are located
         private const string placeholderCveTable = "SECTION-CVETABLE"; // Placeholder Sections in template
-        private readonly string githubToken = "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"; // Add your GitHub token here
+        private readonly string githubToken = "your_github_token"; // Add your GitHub token here
 
         public CveFileUpdater(string templateDirectory, string logFileLocation)
             : base(templateDirectory, logFileLocation)
